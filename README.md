@@ -8,7 +8,7 @@
 
 Hi, I'm a Master's student at Keio University. Most of my research is in the field of Knowledge Distillation and Generative Models. I'm fluent in both Japanese and English. 
 
-Please note that most of my code is on my lab's servers, so not all of my activity is reflected on my github account.
+Please note that most of my code is on my lab's servers or on forked repositories, so not all of my activity is reflected on my github account.
 
 ## Github Stats 📊
 <p align="center">
