@@ -20,8 +20,8 @@ Please note that most of my code is on my lab's servers or on forked repositorie
 ## Github Stats 📊
 <p align="center">
 <a href="https://github.com/Hiromasa-H">
-  <img height="200em" src="https://github-readme-stats-fork-xi.vercel.app/api?username=Hiromasa-H&show_icons=true&theme=dark&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=Hiromasa-H&layout=donut&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hiromasa-H&show_icons=true&theme=dark&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromasa-H&layout=donut&theme=dark"/>
 </a>
 </p>
 
