@@ -28,7 +28,11 @@ Please note that most of my code is on my lab's servers or on forked repositorie
 <!-- 
 [![Contribution snake Light](https://raw.githubusercontent.com/Hiromasa-H/Hiromasa-H/output/github-snake.svg)](https://github.com/Platane/snk#gh-dark-mode-only) -->
 
-<!-- ## Activity 💪 -->
+## Activity 💪
+<p align="center">
+<img alt="GitHubProfileSummaryCards-1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiromasa-H&theme=github_dark">
+</p>
+
 <!-- [![Hiromasa-H's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hiromasa-H&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- [![Hiromasa-H's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hiromasa-H&theme=react-dark)](https://github-readme-activity-graph.cyclic.app) -->
 
