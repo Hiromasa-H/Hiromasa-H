@@ -8,7 +8,7 @@
 
 Hi, I'm a Master's student at Keio University. Most of my research is in the field of Knowledge Distillation and Generative Models. I'm fluent in both Japanese and English. 
 
-Please note that most of my code is on my lab's servers or on non-main branches, so not all of my activity is reflected on my github account.
+Please note that most of my code is on my lab's servers, non-main branches, or in forked repos, so not all of my activity is reflected on my github account.
 
 ## Languages and Tools
 [![Pytorch](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=Pytorch&)]()
