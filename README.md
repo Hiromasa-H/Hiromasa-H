@@ -22,8 +22,9 @@ Please note that most of my code is on my lab's servers, non-main branches, or i
 <a href="https://github.com/Hiromasa-H">
 <!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hiromasa-H&show_icons=true&theme=dark&count_private=true"/> -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiromasa-H&layout=donut&theme=dark"/>
-  <img heihgt="200em" alt="GitHubProfileSummaryCards-1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiromasa-H&theme=github_dark">
-</a>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiromasa-H&theme=github_dark&utcOffset=9">
+  <img height="200em" alt="GitHubProfileSummaryCards-1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiromasa-H&theme=github_dark">
+  </a>
 </p>
 
 <!-- 
