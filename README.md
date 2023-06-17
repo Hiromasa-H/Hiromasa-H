@@ -10,6 +10,11 @@ Hi, I'm a Master's student at Keio University. Most of my research is in the fie
 
 Please note that most of my code is on my lab's servers, non-main branches, or in forked repos, so not all of my activity is reflected on my github account.
 
+## Links
+
+- [Zenn Blog](https://zenn.dev/hiromasa)
+- [Qiita Blog](https://qiita.com/Hiromasa_H)
+
 ## Languages and Tools
 [![Pytorch](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=Pytorch&)]()
 [![Django](https://img.shields.io/badge/-Django-gray?style=flat&logo=Django&)]()
