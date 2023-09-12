@@ -42,7 +42,7 @@ Please note that most of my code is on my lab's servers, non-main branches, or i
  
 
 ## Github Stats 📊
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiromasa-h&theme=dark" alt="hiromasa-h" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiromasa-h&theme=dark" alt="hiromasa-h github streak stats" /></p>
 
 <p align="center">
 <a href="https://github.com/Hiromasa-H">
